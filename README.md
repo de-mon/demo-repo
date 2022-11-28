@@ -1,3 +1,3 @@
 #Hello!
 
-Justd messing around wiht using git as intended 
+Just messing around with using git as intended 
